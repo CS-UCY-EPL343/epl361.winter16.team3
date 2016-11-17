@@ -8,8 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="15,0,-15,0">
-        <Button x:Name="Add_Category" Content="Add Category" HorizontalAlignment="Left" Height="83" Margin="167,116,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667"/>
-        <Button x:Name="Add_Product" Content="Add Product" HorizontalAlignment="Left" Height="128" Margin="903,627,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667" Click="Add_Product_Click"/>
+        <Button x:Name="Add_Category" Content="Add Category" HorizontalAlignment="Left" Height="83" Margin="167,116,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667" Click="Add_Category_Click"/>
+        <Button x:Name="Add_Product" Content="Add Product" HorizontalAlignment="Left" Height="128" Margin="800,627,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667" Click="Add_Product_Click"/>
         <TextBox x:Name="ProductName" HorizontalAlignment="Left" Height="77" Margin="906,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="396" FontSize="26.667" FontFamily="Global User Interface"/>
         <TextBox x:Name="ProductDescription" HorizontalAlignment="Left" Height="175" Margin="906,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="396" FontSize="26.667" FontFamily="Global User Interface"/>
         <TextBox x:Name="ProductPrice" HorizontalAlignment="Left" Height="77" Margin="906,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="396" FontSize="26.667"/>
@@ -20,11 +20,12 @@
         <TextBlock x:Name="ProdDescription" HorizontalAlignment="Left" Height="73" Margin="685,276,0,0" TextWrapping="Wrap" Text="Description" VerticalAlignment="Top" Width="221" FontSize="42.667"/>
         <TextBox x:Name="ProductName_Copy" HorizontalAlignment="Left" Height="77" Margin="170,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="396" FontSize="26.667" FontFamily="Global User Interface"/>
         <TextBlock x:Name="ProdName_Copy" HorizontalAlignment="Left" Height="73" Margin="37,46,0,0" TextWrapping="Wrap" Text="Name" VerticalAlignment="Top" Width="133" FontSize="42.667"/>
-        <Button x:Name="Remove_Product" Content="Remove Product" HorizontalAlignment="Left" Height="70" Margin="183,616,0,0" VerticalAlignment="Top" Width="380" FontSize="42.667" Click="Remove_Product_Click"/>
-        <Button x:Name="Remove_Category" Content="Remove Category" HorizontalAlignment="Left" Height="70" Margin="178,347,0,0" VerticalAlignment="Top" Width="378" FontSize="42.667"/>
-        <ComboBox x:Name="CategoryBox" HorizontalAlignment="Left" Margin="181,272,0,0" VerticalAlignment="Top" Width="385" Height="73" RenderTransformOrigin="0.158,0.897"/>
-        <ComboBox x:Name="ProductBox" HorizontalAlignment="Left" Margin="181,538,0,0" VerticalAlignment="Top" Width="385" Height="76" RenderTransformOrigin="0.158,0.897"/>
-        <Button x:Name="EditCategory" Content="Edit Category" HorizontalAlignment="Left" Height="70" Margin="167,416,0,0" VerticalAlignment="Top" Width="378" FontSize="42.667"/>
-        <Button x:Name="EditProduct" Content="Edit Product" HorizontalAlignment="Left" Height="70" Margin="185,685,0,0" VerticalAlignment="Top" Width="378" FontSize="42.667"/>
+        <Button x:Name="Remove_Product" Content="Remove Product" HorizontalAlignment="Left" Height="70" Margin="167,611,0,0" VerticalAlignment="Top" Width="391" FontSize="42.667" Click="Remove_Product_Click"/>
+        <Button x:Name="Remove_Category" Content="Remove Category" HorizontalAlignment="Left" Height="70" Margin="167,342,0,0" VerticalAlignment="Top" Width="391" FontSize="42.667" Click="Remove_Category_Click"/>
+        <ComboBox x:Name="CategoryBox" HorizontalAlignment="Left" Margin="170,272,0,0" VerticalAlignment="Top" Width="385" Height="73" RenderTransformOrigin="0.158,0.897" SelectionChanged="CategoryBox_SelectionChanged"/>
+        <ComboBox x:Name="ProductBox" HorizontalAlignment="Left" Margin="170,538,0,0" VerticalAlignment="Top" Width="385" Height="76" RenderTransformOrigin="0.158,0.897"/>
+        <Button x:Name="EditCategory" Content="Edit Category" HorizontalAlignment="Left" Height="70" Margin="167,416,0,0" VerticalAlignment="Top" Width="391" FontSize="42.667"/>
+        <Button x:Name="EditProduct" Content="Edit Product" HorizontalAlignment="Left" Height="70" Margin="167,685,0,0" VerticalAlignment="Top" Width="391" FontSize="42.667"/>
+        <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="1234,647,0,0" VerticalAlignment="Top" Style="{StaticResource NavigationBackButtonNormalStyle}" Click="button1_Click" Height="85" Width="95"/>
     </Grid>
 </Page>

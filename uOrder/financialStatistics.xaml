@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="uOrder.financialStatistics"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:uOrder"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="294,10,0,0" TextWrapping="Wrap" Text="FINANCIAL STATISTICS" VerticalAlignment="Top" Height="85" Width="783" SelectionChanged="textBlock_SelectionChanged" FontSize="72"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="61" Margin="196,152,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="338"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="61" Margin="196,287,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="338"/>
+        <TextBlock x:Name="textBlock_Copy" HorizontalAlignment="Left" Margin="71,152,0,0" TextWrapping="Wrap" Text="From" VerticalAlignment="Top" Height="85" Width="101" SelectionChanged="textBlock_SelectionChanged" FontSize="36"/>
+        <TextBlock x:Name="textBlock_Copy1" HorizontalAlignment="Left" Margin="71,287,0,0" TextWrapping="Wrap" Text="To" VerticalAlignment="Top" Height="85" Width="68" SelectionChanged="textBlock_SelectionChanged" FontSize="36"/>
+        <Button x:Name="button_Copy" Content="Produce Report" HorizontalAlignment="Left" Height="91" Margin="638,642,0,0" VerticalAlignment="Top" Width="442" FontSize="48" Click="button_Click"/>
+        <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="1236,641,0,0" VerticalAlignment="Top" Style="{StaticResource NavigationBackButtonNormalStyle}" Click="button1_Click" Height="85" Width="95"/>
+
+    </Grid>
+</Page>

@@ -36,5 +36,33 @@ namespace uOrder
         {
 
         }
+
+        private void Add_Category_Click(object sender, RoutedEventArgs e)
+        {
+            ComboBoxItem item = new ComboBoxItem();
+            item.Content = ProductName_Copy.Text;
+            CategoryBox.Items.Add(item);
+            ProductName_Copy.Text = "";
+        }
+
+        private void CategoryBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
+
+        private void Remove_Category_Click(object sender, RoutedEventArgs e)
+        {
+            CategoryBox.Items.Remove(CategoryBox.SelectedItem);
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(BlankPage1));
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(BlankPage1));
+        }
     }
 }

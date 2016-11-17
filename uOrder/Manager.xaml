@@ -9,8 +9,11 @@
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Button x:Name="createMenuButton" Content="CREATE / MODIFY MENU" HorizontalAlignment="Left" Height="119" Margin="502,137,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667" Click="createMenuButton_Click"/>
-        <Button x:Name="financialButton" Content="FINANCIAL STATISTICS" HorizontalAlignment="Left" Height="119" Margin="502,330,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667"/>
-        <Button x:Name="employeeButton" Content="EMPLOYEE MANAGEMENT" HorizontalAlignment="Left" Height="119" Margin="502,519,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667"/>
+        <Button x:Name="financialButton" Content="FINANCIAL STATISTICS" HorizontalAlignment="Left" Height="119" Margin="502,330,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667" Click="financialButton_Click"/>
+        <Button x:Name="employeeButton" Content="EMPLOYEE MANAGEMENT" HorizontalAlignment="Left" Height="119" Margin="502,519,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667" Click="employeeButton_Click"/>
+        <Button x:Name="button1" Content="" HorizontalAlignment="Left" Margin="1271,672,0,0" VerticalAlignment="Top" Style="{StaticResource NavigationBackButtonNormalStyle}" Click="button1_Click" Height="66" Width="51"/>
 
     </Grid>
+
+
 </Page>

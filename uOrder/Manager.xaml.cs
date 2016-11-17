@@ -31,5 +31,25 @@ namespace uOrder
         {
             Frame.Navigate(typeof(BlankPage2));
         }
+
+        private void employeeButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(BlankPage3));
+        }
+
+        private void financialButton_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(financialStatistics));
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(MainPage));
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(MainPage));
+        }
     }
 }
