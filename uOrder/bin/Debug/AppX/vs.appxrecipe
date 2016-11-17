@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KONSTANTINOS-PC</Machine>
+    <WindowsUser>Konstantinos</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>af8f948d-c472-4ef6-9c59-85a84ed41104</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>8A8A45D3D216C1CF6C06FCC5946DB71F072D0FAC2AC3FECD455311FBB96BCE34</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>af8f948d-c472-4ef6-9c59-85a84ed41104_1.0.0.0_neutral__ysykw5g2cxb6t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>af8f948d-c472-4ef6-9c59-85a84ed41104_ysykw5g2cxb6t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>af8f948d-c472-4ef6-9c59-85a84ed41104</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Konstantinos</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-11-15T17:07:12.451</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.exe">
+      <PackagePath>uOrder.exe</PackagePath>
+      <Modified>2016-11-15T17:34:05.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:05:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.xr.xml">
+      <PackagePath>uOrder.xr.xml</PackagePath>
+      <Modified>2016-11-15T17:06:38.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-11-15T14:49:18.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\ModifyMenu.xbf">
+      <PackagePath>ModifyMenu.xbf</PackagePath>
+      <Modified>2016-11-15T17:34:05.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\Manager.xbf">
+      <PackagePath>Manager.xbf</PackagePath>
+      <Modified>2016-11-15T17:34:05.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\createMenu.xbf">
+      <PackagePath>createMenu.xbf</PackagePath>
+      <Modified>2016-11-15T17:06:38.553</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-11-15T17:34:05.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-11-15T17:07:12.032</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

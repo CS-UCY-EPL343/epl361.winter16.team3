@@ -1,0 +1,16 @@
+﻿<Page
+    x:Class="uOrder.BlankPage1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:uOrder"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Button x:Name="createMenuButton" Content="CREATE / MODIFY MENU" HorizontalAlignment="Left" Height="119" Margin="502,137,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667" Click="createMenuButton_Click"/>
+        <Button x:Name="financialButton" Content="FINANCIAL STATISTICS" HorizontalAlignment="Left" Height="119" Margin="502,330,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667"/>
+        <Button x:Name="employeeButton" Content="EMPLOYEE MANAGEMENT" HorizontalAlignment="Left" Height="119" Margin="502,519,0,0" VerticalAlignment="Top" Width="371" FontSize="26.667"/>
+
+    </Grid>
+</Page>
