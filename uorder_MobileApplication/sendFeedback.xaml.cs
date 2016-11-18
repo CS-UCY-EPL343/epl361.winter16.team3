@@ -40,5 +40,10 @@ namespace App4
         {
             Frame.Navigate(typeof(MainPage));
         }
+
+        private void clear_Click(object sender, RoutedEventArgs e)
+        {
+            textBox.Text = "";
+        }
     }
 }
