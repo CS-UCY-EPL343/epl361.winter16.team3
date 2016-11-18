@@ -10,11 +10,12 @@
 
     <Canvas>
         <Button x:Name="button" Content="Place Order" Height="83" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" FontSize="36" Canvas.Left="93" Canvas.Top="538" Background="#FF007AFC" Click="button_Click"/>
-        <TextBlock x:Name="text1" Height="37" Width="156" TextWrapping="Wrap" Text="Your Order:" VerticalAlignment="Top" FontSize="30" Canvas.Left="10" Canvas.Top="44"/>
-        <TextBlock x:Name="order" Height="232" Width="380"  TextWrapping="Wrap" Text="No products added yet." VerticalAlignment="Top" FontSize="20" Canvas.Left="10" Canvas.Top="103" Loaded="order_Loaded"/>
-        <Button x:Name="removeall" Content="Remove All" Height="65" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" FontSize="20" Canvas.Top="345" Background="#00007AFC" Width="128" Canvas.Left="248" Click="removeall_Click"/>
-        <Button x:Name="remove" Content="Remove" Height="65" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" FontSize="20" Canvas.Top="345" Background="#00007AFC" Width="128" Canvas.Left="10"/>
+        <TextBlock x:Name="text1" Height="37" Width="156" TextWrapping="Wrap" Text="Your Order:" VerticalAlignment="Top" FontSize="30" Canvas.Left="10" Canvas.Top="24"/>
+        <TextBlock x:Name="order" Height="313" Width="380"  TextWrapping="Wrap" Text="No products added yet." VerticalAlignment="Top" FontSize="20" Canvas.Left="10" Canvas.Top="69" Loaded="order_Loaded"/>
+        <Button x:Name="removeall" Content="Remove All" Height="65" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" FontSize="20" Canvas.Top="377" Background="#00007AFC" Width="128" Canvas.Left="250" Click="removeall_Click"/>
         <Button x:Name="gotomenu" Content="Go To Menu" Height="65" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" FontSize="20" Canvas.Top="463" Background="#00007AFC" Width="147" Canvas.Left="129" Click="gotomenu_Click"/>
+        <TextBlock x:Name="totalpricetext" Height="32" Canvas.Left="12" TextWrapping="Wrap" Text="Total Price:" Canvas.Top="397" Width="113" FontSize="20" FontWeight="Bold" />
+        <TextBlock x:Name="totalprice" Height="32" Canvas.Left="12" TextWrapping="Wrap" Text="€0.00" Canvas.Top="423" Width="113" FontSize="25" FontWeight="Bold" Loaded="totalprice_Loaded" />
 
     </Canvas>
 </Page>

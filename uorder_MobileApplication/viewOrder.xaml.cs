@@ -21,6 +21,7 @@ namespace App4
     public sealed partial class viewOrder : Page
     {
         public static List<String> myorder = new List<String>();
+        public static double total = 0;
 
         public viewOrder()
         {
@@ -51,6 +52,13 @@ namespace App4
         {
             order.Text = "No products added yet.";
             viewOrder.myorder.Clear();
+            totalprice.Text = "€0.00";
+            viewOrder.total = 0;
+        }
+
+        private void totalprice_Loaded(object sender, RoutedEventArgs e)
+        {
+            totalprice.Text = "€" + total.ToString("N2");
         }
     }
 }
