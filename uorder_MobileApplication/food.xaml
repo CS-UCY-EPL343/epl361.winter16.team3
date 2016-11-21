@@ -14,41 +14,41 @@
             <Button x:Name="view" Content="View Order" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="132" Canvas.Left="10" Canvas.Top="4" RenderTransformOrigin="0.461,1.262" Foreground="White" Background="#FF007AFF" Click="view_Click"/>
             <TextBlock x:Name="title" Height="55" TextWrapping="Wrap" Text="Food" VerticalAlignment="Center" FontSize="48" Canvas.Left="70" Canvas.Top="80" Width="254" HorizontalAlignment="Left" TextAlignment="Center"/>
             <Canvas Height="140" Width="400" Canvas.Top="130" Canvas.Left="-10">
-                <Button x:Name="add1" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold"/>
+                <Button x:Name="add1" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold" Click="add1_Click"/>
                 <Button x:Name="info1" Content="INFO" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="282" Canvas.Top="62"/>
-                <Button x:Name="like1" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25"/>
+                <Button x:Name="like1" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25" Click="like1_Click"/>
                 <TextBlock x:Name="product1" Height="37" TextWrapping="Wrap" Text="Cheese Pie" VerticalAlignment="Top" FontSize="25" Canvas.Left="34" Canvas.Top="34" Width="142"/>
                 <TextBlock x:Name="price1" Height="37" TextWrapping="Wrap" Text="€2,00" VerticalAlignment="Top" FontSize="20" Canvas.Left="34" Canvas.Top="71" Width="142"/>
                 <TextBlock x:Name="rating1" Height="23" TextWrapping="Wrap" Text="8 likes" VerticalAlignment="Top" FontSize="18" Canvas.Left="329" Canvas.Top="125" Width="62"/>
             </Canvas>
             <Canvas Height="140" Width="400" Canvas.Top="270" Canvas.Left="-10">
-                <Button x:Name="add2" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold"/>
+                <Button x:Name="add2" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold" Click="add2_Click"/>
                 <Button x:Name="info2" Content="INFO" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="282" Canvas.Top="62"/>
-                <Button x:Name="like2" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25"/>
+                <Button x:Name="like2" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25" Click="like2_Click"/>
                 <TextBlock x:Name="product2" Height="37" TextWrapping="Wrap" Text="Tuna Sandwich" VerticalAlignment="Top" FontSize="25" Canvas.Left="34" Canvas.Top="34" Width="173"/>
                 <TextBlock x:Name="price2" Height="37" TextWrapping="Wrap" Text="€4,00" VerticalAlignment="Top" FontSize="20" Canvas.Left="34" Canvas.Top="71" Width="142"/>
                 <TextBlock x:Name="rating2" Height="23" TextWrapping="Wrap" Text="10 likes" VerticalAlignment="Top" FontSize="18" Canvas.Left="329" Canvas.Top="125" Width="62"/>
             </Canvas>
             <Canvas Height="140" Width="400" Canvas.Top="410" Canvas.Left="-10">
-                <Button x:Name="add3" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold"/>
+                <Button x:Name="add3" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold" Click="add3_Click"/>
                 <Button x:Name="info3" Content="INFO" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="282" Canvas.Top="62"/>
-                <Button x:Name="like3" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25"/>
+                <Button x:Name="like3" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25" Click="like3_Click"/>
                 <TextBlock x:Name="product3" Height="37" TextWrapping="Wrap" Text="Croissant" VerticalAlignment="Top" FontSize="25" Canvas.Left="34" Canvas.Top="34" Width="142"/>
                 <TextBlock x:Name="price3" Height="37" TextWrapping="Wrap" Text="€1,50" VerticalAlignment="Top" FontSize="20" Canvas.Left="34" Canvas.Top="71" Width="142"/>
                 <TextBlock x:Name="rating3" Height="23" TextWrapping="Wrap" Text="16 likes" VerticalAlignment="Top" FontSize="18" Canvas.Left="329" Canvas.Top="125" Width="62"/>
             </Canvas>
             <Canvas Height="140" Width="400" Canvas.Top="550" Canvas.Left="-10">
-                <Button x:Name="add4" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold"/>
+                <Button x:Name="add4" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold" Click="add4_Click"/>
                 <Button x:Name="info4" Content="INFO" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="282" Canvas.Top="58"/>
-                <Button x:Name="like4" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25"/>
+                <Button x:Name="like4" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25" Click="like4_Click"/>
                 <TextBlock x:Name="product4" Height="37" TextWrapping="Wrap" Text="Ceasar Salad" VerticalAlignment="Top" FontSize="25" Canvas.Left="34" Canvas.Top="34" Width="142"/>
                 <TextBlock x:Name="price4" Height="37" TextWrapping="Wrap" Text="€4,00" VerticalAlignment="Top" FontSize="20" Canvas.Left="34" Canvas.Top="71" Width="142"/>
                 <TextBlock x:Name="rating4" Height="23" TextWrapping="Wrap" Text="15 likes" VerticalAlignment="Top" FontSize="18" Canvas.Left="337" Canvas.Top="117" Width="62"/>
             </Canvas>
             <Canvas Height="140" Width="400" Canvas.Top="690" Canvas.Left="-10">
-                <Button x:Name="add5" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold"/>
+                <Button x:Name="add5" Content="ADD" HorizontalAlignment="Stretch" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="161" Canvas.Top="61" RenderTransformOrigin="0.461,1.262" Foreground="Black" Background="Orange" FontWeight="Bold" Click="add5_Click"/>
                 <Button x:Name="info5" Content="INFO" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="282" Canvas.Top="62"/>
-                <Button x:Name="like5" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25"/>
+                <Button x:Name="like5" Content="LIKE" HorizontalAlignment="Right" Height="57" VerticalAlignment="Bottom" Width="66" Canvas.Left="283" Canvas.Top="25" Click="like5_Click"/>
                 <TextBlock x:Name="product5" Height="37" TextWrapping="Wrap" Text="Club Sandwich" VerticalAlignment="Top" FontSize="25" Canvas.Left="34" Canvas.Top="34" Width="175"/>
                 <TextBlock x:Name="price5" Height="37" TextWrapping="Wrap" Text="€4,30" VerticalAlignment="Top" FontSize="20" Canvas.Left="34" Canvas.Top="71" Width="142"/>
                 <TextBlock x:Name="rating5" Height="23" TextWrapping="Wrap" Text="21 likes" VerticalAlignment="Top" FontSize="18" Canvas.Left="329" Canvas.Top="125" Width="62"/>
