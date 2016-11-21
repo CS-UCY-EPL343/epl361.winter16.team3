@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -20,49 +20,22 @@ namespace uOrder
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class BlankPage2 : Page
+    public sealed partial class financialStatistics : Page
     {
-        public BlankPage2()
+        public financialStatistics()
         {
             this.InitializeComponent();
         }
 
-        private void Add_Product_Click(object sender, RoutedEventArgs e)
+        private void textBlock_SelectionChanged(object sender, RoutedEventArgs e)
         {
 
         }
 
-        private void Remove_Product_Click(object sender, RoutedEventArgs e)
-        {
-
-        }
-
-        private void Add_Category_Click(object sender, RoutedEventArgs e)
-        {
-            ComboBoxItem item = new ComboBoxItem();
-            item.Content = ProductName_Copy.Text;
-            CategoryBox.Items.Add(item);
-            ProductName_Copy.Text = "";
-        }
-
-        private void CategoryBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-
-        }
-
-        private void Remove_Category_Click(object sender, RoutedEventArgs e)
-        {
-            CategoryBox.Items.Remove(CategoryBox.SelectedItem);
-        }
-
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(BlankPage1));
-        }
-
+       
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage1));
+            Frame.Navigate(typeof(managementPage));
         }
     }
 }
