@@ -97,5 +97,58 @@ namespace App4
             b.Content = "ADD";
             b.IsEnabled = true;
         }
+
+
+
+
+        private void like1_Click(object sender, RoutedEventArgs e)
+        {
+            rating1.Text = like(rating1.Text, like1);
+        }
+        private void like2_Click(object sender, RoutedEventArgs e)
+        {
+            rating2.Text = like(rating2.Text, like2);
+        }
+        private void like3_Click(object sender, RoutedEventArgs e)
+        {
+            rating3.Text = like(rating3.Text, like3);
+        }
+        private void like4_Click(object sender, RoutedEventArgs e)
+        {
+            rating4.Text = like(rating4.Text, like4);
+        }
+        private void like5_Click(object sender, RoutedEventArgs e)
+        {
+            rating5.Text = like(rating5.Text, like5);
+        }
+
+        private String like(String rating, Button b)
+        {
+            int status, likes;
+            if (b.Content.Equals("LIKE"))
+            {
+                status = 1;
+                b.Content = "LIKED";
+            }
+            else {
+                status = 2;
+                b.Content = "LIKE";
+            }
+
+            if (status == 1)
+            {
+                String[] str = rating.Split(' ');
+                likes = Int32.Parse(str[0]);
+                likes++;
+            }
+            else
+            {
+                String[] str = rating.Split(' ');
+                likes = Int32.Parse(str[0]);
+                likes--;
+            }
+            rating = likes + " likes";
+            return rating;
+        }
     }
 }
