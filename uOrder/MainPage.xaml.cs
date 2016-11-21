@@ -21,25 +21,26 @@ namespace uOrder
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
+    /// 
+    
     public sealed partial class MainPage : Page
     {
+        public static string username = "test";
+        public static string password = "test";
         public MainPage()
         {
             this.InitializeComponent();
-        }
+        }     
 
-  
-        private void button_Click(object sender, RoutedEventArgs e)
+        private void login_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage1));
-
+            if (userBox.Text.CompareTo(username)==0  && passwordBox.Password.CompareTo(password)==0)
+                Frame.Navigate(typeof(managementPage));
         }
 
-        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        private void start_Click(object sender, RoutedEventArgs e)
         {
-
+            Frame.Navigate(typeof(orderManagement));
         }
-    
-
     }
 }
