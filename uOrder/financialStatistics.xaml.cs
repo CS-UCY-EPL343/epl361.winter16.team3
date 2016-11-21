@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -34,12 +34,11 @@ namespace uOrder
 
         private void button_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage1));
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage1));
+            Frame.Navigate(typeof(managementPage));
         }
     }
 }
