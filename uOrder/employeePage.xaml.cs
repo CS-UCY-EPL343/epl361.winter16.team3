@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -20,9 +20,9 @@ namespace uOrder
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class BlankPage3 : Page
+    public sealed partial class employeePage : Page
     {
-        public BlankPage3()
+        public employeePage()
         {
             this.InitializeComponent();
         }
@@ -32,14 +32,9 @@ namespace uOrder
 
         }
 
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(BlankPage1));
-        }
-
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage1));
+            Frame.Navigate(typeof(managementPage));
         }
     }
 }
