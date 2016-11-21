@@ -12,7 +12,7 @@
         <TextBox x:Name="textBox" Height="187" Canvas.Left="33" TextWrapping="Wrap" Text="" Canvas.Top="141" Width="333"/>
         <TextBlock x:Name="text1" Height="55" Canvas.Left="33" TextWrapping="Wrap" Text="Please write your comments, suggestions or complains below:" Canvas.Top="67" Width="312" FontSize="20"/>
         <Button x:Name="clear" Content="Clear" Height="24" Canvas.Left="33" Canvas.Top="323" Width="59" Click="clear_Click"/>
-        <Button x:Name="send" Content="Send" Height="24" Canvas.Left="257" Canvas.Top="323" Width="59"/>
+        <Button x:Name="send" Content="Send" Height="24" Canvas.Left="257" Canvas.Top="323" Width="59" Click="send_Click"/>
         <Button x:Name="cancel" Content="Cancel" Height="24" Canvas.Left="140" Canvas.Top="452" Width="59" Click="cancel_Click"/>
 
     </Canvas>

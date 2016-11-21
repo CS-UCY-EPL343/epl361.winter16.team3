@@ -45,5 +45,18 @@ namespace App4
         {
             textBox.Text = "";
         }
+
+        private async void wait(Button b)
+        {
+            await System.Threading.Tasks.Task.Delay(500);
+            textBox.Text = "";
+        }
+
+        private void send_Click(object sender, RoutedEventArgs e)
+        {
+            send.Content = "Sent";
+            send.IsEnabled = false;
+            wait(send);
+        }
     }
 }
