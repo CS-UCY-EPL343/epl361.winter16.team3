@@ -10,12 +10,13 @@
 
     <Grid>
         <Image x:Name="logo" HorizontalAlignment="Center" Height="318" Margin="0,0,0,0" VerticalAlignment="Top" Width="322" Source="Assets/uorder_logo.png"/>
-        <TextBlock x:Name="status" HorizontalAlignment="Left" Height="72" Margin="39,333,0,0" TextWrapping="Wrap" Text="Your order is being prepared..." VerticalAlignment="Top" Width="322" FontSize="25" TextAlignment="Center" FontWeight="Bold"/>
+        <TextBlock x:Name="status" HorizontalAlignment="Left" Height="72" Margin="39,333,0,0" TextWrapping="Wrap" Text="Your order is being prepared..." VerticalAlignment="Top" Width="322" FontSize="25" TextAlignment="Center" FontWeight="Bold" SelectionHighlightColor="#FF59AFF3"/>
         <TextBlock x:Name="totalprice" HorizontalAlignment="Left" Height="37" Margin="39,451,0,0" TextWrapping="Wrap" Text="Total price:" VerticalAlignment="Top" Width="189" FontSize="25" TextAlignment="Left" FontWeight="Bold"/>
         <TextBlock x:Name="orderid" HorizontalAlignment="Left" Height="37" Margin="39,493,0,0" TextWrapping="Wrap" Text="Order Number:" VerticalAlignment="Top" Width="189" FontSize="25" TextAlignment="Left" FontWeight="Bold"/>
         <TextBlock x:Name="id" HorizontalAlignment="Left" Height="37" Margin="256,493,0,0" TextWrapping="Wrap" Text="1354" VerticalAlignment="Top" Width="113" FontSize="25" TextAlignment="Left" FontWeight="Bold"/>
-        <TextBlock x:Name="total" HorizontalAlignment="Left" Height="37" Margin="256,451,0,0" TextWrapping="Wrap" Text="€7,50" VerticalAlignment="Top" Width="118" FontSize="25" TextAlignment="Left" FontWeight="Bold"/>
-        <Button x:Name="ready" Content="Get Ready" HorizontalAlignment="Left" Height="25" Margin="256,563,0,0" VerticalAlignment="Top" Width="105" Click="ready_Click" FontWeight="Normal" Opacity="0.5"/>
+        <TextBlock x:Name="total" HorizontalAlignment="Left" Height="37" Margin="256,451,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="118" FontSize="25" TextAlignment="Left" FontWeight="Bold" Loaded="total_Loaded"/>
+        <Button x:Name="ready" Content="Ready" HorizontalAlignment="Left" Height="25" Margin="256,563,0,0" VerticalAlignment="Top" Width="105" Click="ready_Click" FontWeight="Normal" Opacity="0.5"/>
+        <Button x:Name="neworder" Content="New Order" HorizontalAlignment="Left" Height="25" Margin="37,563,0,0" VerticalAlignment="Top" Width="117" Click="neworder_Click" FontWeight="Bold" RenderTransformOrigin="-1.174,0.428" Background="#FF007AFF"/>
 
     </Grid>
 </Page>

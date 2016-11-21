@@ -41,5 +41,18 @@ namespace App4
             status.Text = "READY!";
             status.FontSize = 35;
         }
+
+        private void total_Loaded(object sender, RoutedEventArgs e)
+        {
+            total.Text= "€" + viewOrder.total.ToString("N2");
+        }
+
+        private void neworder_Click(object sender, RoutedEventArgs e)
+        {
+            viewOrder.myorder.Clear();
+            totalprice.Text = "€0.00";
+            viewOrder.total = 0;
+            Frame.Navigate(typeof(MainPage));
+        }
     }
 }
