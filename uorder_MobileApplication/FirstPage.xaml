@@ -8,6 +8,9 @@
     mc:Ignorable="d"
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
     <StackPanel>
+        <StackPanel.Background>
+            <ImageBrush ImageSource="Assets/background.png"/>
+        </StackPanel.Background>
         <Image x:Name="logo" HorizontalAlignment="Center" Height="318" Margin="0,0,0,0" VerticalAlignment="Top" Width="322" Source="Assets/uorder_logo.png"/>
         <TextBlock x:Name="directions" Margin="12,0,12,0" TextWrapping="Wrap" FontSize="24" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" TextAlignment="Center" >
         	<Run Text="&#xA;1. Turn on the Wi-Fi and connect with the local network.&#xA;&#xA;2. Turn on NFC.&#xA;&#xA;3. Connect with an NFC tag."/>

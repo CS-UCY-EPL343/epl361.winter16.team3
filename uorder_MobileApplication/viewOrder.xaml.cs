@@ -21,7 +21,7 @@ namespace App4
     public sealed partial class viewOrder : Page
     {
         public static List<String> myorder = new List<String>();
-        public static double total = 0;
+        public static List<double> prices = new List<double>();
 
         public viewOrder()
         {
@@ -39,26 +39,47 @@ namespace App4
             Frame.Navigate(typeof(preparingScreen));
         }
 
-        private void order_Loaded(object sender, RoutedEventArgs e)
+        private void totalprice_Loaded(object sender, RoutedEventArgs e)
         {
-            for (int i=0; i<myorder.Count; i++)
+            totalprice.Text = "€" + getTotalPrice(prices).ToString("N2");
+        }
+
+        public static double getTotalPrice(List<double> prices)
+        {
+            double total = 0;
+            for (int i = 0; i < prices.Count; i++)
             {
-                if (i == 0) order.Text = "";
-                order.Text = order.Text + myorder[i] + "\n";
+                total += prices[i];
+            }
+            return total;
+        }
+
+        private void currentorder_Loaded(object sender, RoutedEventArgs e)
+        {
+            for (int i = 0; i < myorder.Count; i++)
+            {
+                CheckBox c = new CheckBox();
+                c.Content=myorder[i];
+                currentorder.Children.Add(c);
             }
         }
 
-        private void removeall_Click(object sender, RoutedEventArgs e)
+        private void remove_Click(object sender, RoutedEventArgs e)
         {
-            order.Text = "No products added yet.";
-            viewOrder.myorder.Clear();
-            totalprice.Text = "€0.00";
-            viewOrder.total = 0;
-        }
-
-        private void totalprice_Loaded(object sender, RoutedEventArgs e)
-        {
-            totalprice.Text = "€" + total.ToString("N2");
+            int count = currentorder.Children.Count;
+            int found = 0;
+            for (int i = 0; i < count; i++)
+            {
+                CheckBox c = (currentorder.Children[i - found] as CheckBox);
+                if ((bool)c.IsChecked)
+                {
+                    myorder.RemoveAt(i-found);
+                    prices.RemoveAt(i - found);
+                    currentorder.Children.RemoveAt(i - found);
+                    found++;
+                }
+            }
+            totalprice.Text = "€" + getTotalPrice(prices).ToString("N2");
         }
     }
 }

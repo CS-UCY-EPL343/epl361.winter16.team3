@@ -49,7 +49,7 @@ namespace App4
         private void add1_Click(object sender, RoutedEventArgs e)
         {
             viewOrder.myorder.Add(product1.Text + "\t\t" + price1.Text);
-            viewOrder.total = viewOrder.total + 2;
+            viewOrder.prices.Add(2);
             add1.Content = "ADDED";
             add1.IsEnabled = false;
             wait(add1);
@@ -58,7 +58,7 @@ namespace App4
         private void add2_Click(object sender, RoutedEventArgs e)
         {
             viewOrder.myorder.Add(product2.Text + "\t\t" + price2.Text);
-            viewOrder.total = viewOrder.total + 2.5;
+            viewOrder.prices.Add(2.5);
             add2.Content = "ADDED";
             add2.IsEnabled = false;
             wait(add2);
@@ -67,7 +67,7 @@ namespace App4
         private void add3_Click(object sender, RoutedEventArgs e)
         {
             viewOrder.myorder.Add(product3.Text + "\t\t" + price3.Text);
-            viewOrder.total = viewOrder.total + 3;
+            viewOrder.prices.Add(3);
             add3.Content = "ADDED";
             add3.IsEnabled = false;
             wait(add3);
@@ -76,7 +76,7 @@ namespace App4
         private void add4_Click(object sender, RoutedEventArgs e)
         {
             viewOrder.myorder.Add(product4.Text + "\t\t" + price4.Text);
-            viewOrder.total = viewOrder.total + 2.2;
+            viewOrder.prices.Add(2.2);
             add4.Content = "ADDED";
             add4.IsEnabled = false;
             wait(add4);
@@ -85,7 +85,7 @@ namespace App4
         private void add5_Click(object sender, RoutedEventArgs e)
         {
             viewOrder.myorder.Add(product5.Text + "\t\t\t" + price5.Text);
-            viewOrder.total = viewOrder.total + 2;
+            viewOrder.prices.Add(2);
             add5.Content = "ADDED";
             add5.IsEnabled = false;
             wait(add5);
