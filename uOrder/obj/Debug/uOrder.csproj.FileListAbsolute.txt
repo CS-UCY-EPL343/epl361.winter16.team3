@@ -45,3 +45,44 @@ c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\obj\De
 c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\ModifyMenu.xbf
 c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\Manager.xbf
 c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\createMenu.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\uOrder.csprojResolveAssemblyReference.cache
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\App.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\App.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\dayStatistics.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\dayStatistics.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\employeePage.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\employeePage.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\financialStatistics.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\financialStatistics.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\ModifyMenu.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\ModifyMenu.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\Manager.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\Manager.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\createMenu.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\createMenu.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\MainPage.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\MainPage.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\orderManagement.g.i.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\orderManagement.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\App.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\dayStatistics.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\employeePage.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\financialStatistics.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\ModifyMenu.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\Manager.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\createMenu.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\MainPage.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\orderManagement.xaml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\App.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\dayStatistics.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\employeePage.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\financialStatistics.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\ModifyMenu.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\Manager.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\createMenu.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\MainPage.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\orderManagement.xbf
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\uOrder.exe
+C:\Users\Konstantinos\Desktop\epl361.winter16.team3-master\epl361.winter16.team3-master\uOrder\obj\Debug\uOrder.pdb
