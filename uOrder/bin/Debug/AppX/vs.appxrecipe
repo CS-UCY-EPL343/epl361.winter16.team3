@@ -9,7 +9,7 @@
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>af8f948d-c472-4ef6-9c59-85a84ed41104</PackageIdentityName>
-    <IntermediateOutputPath>c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\obj\Debug\</IntermediateOutputPath>
     <RegisteredManifestChecksum>8A8A45D3D216C1CF6C06FCC5946DB71F072D0FAC2AC3FECD455311FBB96BCE34</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>af8f948d-c472-4ef6-9c59-85a84ed41104_1.0.0.0_neutral__ysykw5g2cxb6t</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>af8f948d-c472-4ef6-9c59-85a84ed41104_ysykw5g2cxb6t!App</RegisteredUserModeAppID>
@@ -19,64 +19,308 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-11-15T17:07:12.451</Modified>
+      <Modified>2016-11-28T11:46:11.628</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.exe">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.exe">
       <PackagePath>uOrder.exe</PackagePath>
-      <Modified>2016-11-15T17:34:05.961</Modified>
+      <Modified>2016-11-28T11:49:09.796</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization.dll">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization.dll</PackagePath>
+      <Modified>2016-11-27T23:42:46.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+      <Modified>2016-11-27T23:34:33.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\background.png">
+      <PackagePath>Assets\background.png</PackagePath>
+      <Modified>2016-11-28T11:44:03.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T19:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SmallLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SmallLogo.scale-100.png">
       <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T19:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T19:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\StoreLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-07-06T19:05:20.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.xr.xml">
-      <PackagePath>uOrder.xr.xml</PackagePath>
-      <Modified>2016-11-15T17:06:38.345</Modified>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\Assets\uorder_logo.png">
+      <PackagePath>Assets\uorder_logo.png</PackagePath>
+      <Modified>2016-11-28T11:43:58.380</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\App.xbf">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\uOrder.xr.xml">
+      <PackagePath>uOrder.xr.xml</PackagePath>
+      <Modified>2016-11-28T11:46:09.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
       <Modified>2016-11-15T14:49:18.258</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\ModifyMenu.xbf">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\dayStatistics.xbf">
+      <PackagePath>dayStatistics.xbf</PackagePath>
+      <Modified>2016-11-28T11:46:10.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\employeePage.xbf">
+      <PackagePath>employeePage.xbf</PackagePath>
+      <Modified>2016-11-28T11:46:10.013</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\financialStatistics.xbf">
+      <PackagePath>financialStatistics.xbf</PackagePath>
+      <Modified>2016-11-28T11:46:10.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\ModifyMenu.xbf">
       <PackagePath>ModifyMenu.xbf</PackagePath>
-      <Modified>2016-11-15T17:34:05.634</Modified>
+      <Modified>2016-11-28T11:46:10.016</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\Manager.xbf">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\Manager.xbf">
       <PackagePath>Manager.xbf</PackagePath>
-      <Modified>2016-11-15T17:34:05.635</Modified>
+      <Modified>2016-11-28T11:46:10.018</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\createMenu.xbf">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\createMenu.xbf">
       <PackagePath>createMenu.xbf</PackagePath>
       <Modified>2016-11-15T17:06:38.553</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\MainPage.xbf">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2016-11-15T17:34:05.637</Modified>
+      <Modified>2016-11-28T11:46:10.019</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="c:\users\konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\orderManagement.xbf">
+      <PackagePath>orderManagement.xbf</PackagePath>
+      <Modified>2016-11-28T11:49:09.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+      <Modified>2016-11-27T23:34:33.572</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.588</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.604</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.609</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomAppBar\CustomAppBar.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.655</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolStrip\ToolStrip.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.694</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WebBrowser\WebBrowser.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+      <Modified>2016-11-27T23:34:33.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\WinRTXamlToolkit.Controls.DataVisualization.xr.xml">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\WinRTXamlToolkit.Controls.DataVisualization.xr.xml</PackagePath>
+      <Modified>2016-11-27T23:42:46.302</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\AxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\AxisLabel.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DateTimeAxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DateTimeAxisLabel.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.313</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DisplayAxis.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\DisplayAxis.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.318</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\NumericAxisLabel.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\NumericAxisLabel.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.322</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\RangeAxis.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Axis\RangeAxis.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Chart\Chart.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Chart\Chart.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\AreaDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\AreaDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BarDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BarDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.348</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BubbleDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\BubbleDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.353</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ColumnDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ColumnDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.357</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\LineDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\LineDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\PieDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\PieDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.365</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ScatterDataPoint.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\DataPoint\ScatterDataPoint.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.370</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Primitives\DelegatingListBox.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Primitives\DelegatingListBox.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\AreaSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\AreaSeries.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DataPointSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DataPointSeries.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DefinitionSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\DefinitionSeries.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LegendItem.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LegendItem.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.436</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LineSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\LineSeries.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.441</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\PieSeries.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Charting\Series\PieSeries.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Legend\Legend.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Legend\Legend.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Themes\Generic.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\packages\WinRTXamlToolkit.Controls.DataVisualization.Windows.1.8.1.0\lib\netcore451\WinRTXamlToolkit.Controls.DataVisualization\Title\Title.xbf">
+      <PackagePath>WinRTXamlToolkit.Controls.DataVisualization\Title\Title.xbf</PackagePath>
+      <Modified>2016-11-27T23:42:46.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Konstantinos\documents\visual studio 2015\Projects\uOrder\uOrder\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-11-15T17:07:12.032</Modified>
+      <Modified>2016-11-28T11:49:10.642</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
