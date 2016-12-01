@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uOrder", "uOrder.csproj", "{D600A759-2DC0-4767-BD86-8198E8B9AA44}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uOrder", "uOrder\uOrder.csproj", "{D600A759-2DC0-4767-BD86-8198E8B9AA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
