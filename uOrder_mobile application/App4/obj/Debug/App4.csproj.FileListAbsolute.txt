@@ -1,0 +1,231 @@
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\alcoholicDrinks.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\coldCoffees.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\otherBeverages.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\food.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\hotCoffees.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\sweets.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\viewOrder.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\welcomeScreen.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\MainPage.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.xr.xml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.exe
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.pdb
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\resources.pri
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\AppxManifest.xml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\welcomeScreen.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\welcomeScreen.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\welcomeScreen.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\welcomeScreen.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.xaml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.xbf
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App4.exe
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App4.pdb
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\priconfig.xml
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\layout.resfiles
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\resources.resfiles
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\pri.resfiles
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\qualifiers.txt
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Christos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\alcoholicDrinks.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\coldCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\FirstPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\otherBeverages.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\food.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\hotCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\sweets.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\viewOrder.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\MainPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.xr.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.exe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.pdb
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\resources.pri
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\AppxManifest.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\FirstPage.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\FirstPage.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\alcoholicDrinks.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\coldCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\otherBeverages.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\food.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\hotCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sweets.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\viewOrder.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MainPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\FirstPage.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\FirstPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App4.exe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\App4.pdb
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\priconfig.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\layout.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\resources.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\pri.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\qualifiers.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\ProjectArchitectures.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\sendFeedback.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sendFeedback.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sendFeedback.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sendFeedback.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\sendFeedback.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\bin\Debug\preparingScreen.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\preparingScreen.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\preparingScreen.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\preparingScreen.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder\App4\obj\Debug\preparingScreen.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\App.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\coldCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\FirstPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\otherBeverages.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\food.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\hotCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\preparingScreen.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\sendFeedback.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\sweets.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\viewOrder.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\MainPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\App4.xr.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\App4.exe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\App4.pdb
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\resources.pri
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\AppxManifest.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\bin\Debug\App4.build.appxrecipe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\coldCoffees.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\coldCoffees.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\FirstPage.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\FirstPage.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\otherBeverages.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\otherBeverages.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\food.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\food.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\hotCoffees.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\hotCoffees.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\preparingScreen.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\preparingScreen.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sendFeedback.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sendFeedback.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sweets.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sweets.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\viewOrder.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\viewOrder.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\MainPage.g.i.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\MainPage.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\coldCoffees.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\FirstPage.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\otherBeverages.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\food.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\hotCoffees.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\preparingScreen.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sendFeedback.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sweets.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\viewOrder.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\MainPage.xaml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\coldCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\FirstPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\otherBeverages.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\food.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\hotCoffees.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\preparingScreen.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sendFeedback.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\sweets.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\viewOrder.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\MainPage.xbf
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App4.exe
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\App4.pdb
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\priconfig.xml
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\priconfig.xml.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\layout.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\layout.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\resources.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\resources.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\pri.resfiles
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\pri.resfiles.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\qualifiers.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Euaggelos\Documents\Visual Studio 2015\Projects\uOrder_mobile application\App4\obj\Debug\ProjectArchitectures.txt
