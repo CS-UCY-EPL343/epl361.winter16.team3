@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="uOrder.BlankPage2"
+    x:Class="uOrder.modifyMenu"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:uOrder"
@@ -7,7 +7,10 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Margin="15,0,-15,0">
+    <Grid Margin="15,0,-15,0">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/background.png"/>
+        </Grid.Background>
         <Button x:Name="Add_Category" Content="Add Category" HorizontalAlignment="Left" Height="83" Margin="167,116,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667" Click="Add_Category_Click"/>
         <Button x:Name="Add_Product" Content="Add Product" HorizontalAlignment="Left" Height="128" Margin="800,627,0,0" VerticalAlignment="Top" Width="402" FontSize="42.667" Click="Add_Product_Click"/>
         <TextBox x:Name="ProductName" HorizontalAlignment="Left" Height="77" Margin="906,42,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="396" FontSize="26.667" FontFamily="Global User Interface"/>

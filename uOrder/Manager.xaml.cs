@@ -20,31 +20,27 @@ namespace uOrder
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class BlankPage1 : Page
+    public sealed partial class managementPage : Page
     {
-        public BlankPage1()
+        public managementPage()
         {
             this.InitializeComponent();
         }
 
         private void createMenuButton_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage2));
+            Frame.Navigate(typeof(modifyMenu));
         }
 
+        
         private void employeeButton_Click(object sender, RoutedEventArgs e)
         {
-            Frame.Navigate(typeof(BlankPage3));
+            Frame.Navigate(typeof(employeePage));
         }
 
         private void financialButton_Click(object sender, RoutedEventArgs e)
         {
             Frame.Navigate(typeof(financialStatistics));
-        }
-
-        private void button_Click(object sender, RoutedEventArgs e)
-        {
-            Frame.Navigate(typeof(MainPage));
         }
 
         private void button1_Click(object sender, RoutedEventArgs e)

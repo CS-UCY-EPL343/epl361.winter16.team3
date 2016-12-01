@@ -7,7 +7,10 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d">
 
-    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/background.png"/>
+        </Grid.Background>
         <Button x:Name="button_Copy" Content="START DAY" HorizontalAlignment="Left" Height="99" Margin="185,604,0,0" VerticalAlignment="Top" Width="435" FontSize="46.667" Click="start_Click"/>
         <Popup HorizontalAlignment="Left" VerticalAlignment="Top" IsOpen="True"/>
         <Button x:Name="button" Content="LOGIN" HorizontalAlignment="Right" Height="99" Margin="0,604,75,0" VerticalAlignment="Top" Width="468" FontSize="46.667" Click="login_Click" RenderTransformOrigin="0.481,0.539" FontFamily="Global User Interface"/>

@@ -24,6 +24,7 @@ namespace uOrder
     /// A page that displays a group title, a list of items within the group, and details for
     /// the currently selected item.
     /// </summary>
+   
     public sealed partial class orderManagement : Page
     {
         public String[] categories = { "Cold Coffees", "Hot Coffees", "Other Beverages", "Food", "Sweets" };
@@ -32,11 +33,37 @@ namespace uOrder
                                     {  "Water","Orange Juice","Coca Cola","Fanta","Iced Tea" },
                                     { "Cheese Pie","Tuna Sandwich" ,"Croissant","Ceasar Salad","Club Sandwich" },
                                     { "Chocolate Cake","Apple Tart","Chessecake","Carrot Cake","Muffin" }};
+        public double[,] prices = { { 3,3,3.2,2.8, 3.5 },
+                                    { 3,1.5,3.5,4, 3.2},
+                                    { .5,2.5,1,1, 1.5 },
+                                    { 2,4,1.5,4,4.3 },
+                                    { 2,2.5,3,2.2,2 }};
         public int orderNo = 0;
+        public Order currentOrder;
+        public List<Product> menuProducts;
+        public List<Category> menuCategories;
+        public static List<Order> allOrders;
+
+        public void initializeLists()
+        {
+            currentOrder = new Order();
+            menuCategories = new List<Category>();
+            menuProducts = new List<Product>();
+            allOrders = new List<Order>();
+            for (int i = 0; i < categories.Length; i++)
+            {
+                menuCategories.Add(new Category(categories[i]));
+                for (int j = 0; j < 5; j++)
+                {
+                    menuProducts.Add(new Product(products[i, j], prices[i, j], menuCategories[i]));
+                }
+            }
+        }
         public orderManagement()
         {
             this.InitializeComponent();
-            
+
+            initializeLists();
         }
 
         private void back_click(object sender, RoutedEventArgs e)
@@ -45,6 +72,11 @@ namespace uOrder
 
         }
 
+        /// <summary>
+        /// On product click add the product on the current order
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void p_click(object sender, RoutedEventArgs e)
         {
             
@@ -52,9 +84,12 @@ namespace uOrder
             if (currOrderStack.Children.Count == 0)
             {
                 currOrder.Visibility = Visibility.Visible;
+                currentOrder = new Order();
             }
             int t = Convert.ToInt16((sender as Button).Tag);
-            c.Content = products[t / categories.Length, t % categories.Length];
+            c.Content = menuProducts[t].prodName + " (" + menuProducts[t].prodPrice.ToString("C") + ")";
+            currentOrder.addProduct(menuProducts[t]);
+            price.Text = currentOrder.price.ToString("C"); // currency
             c.Visibility = Visibility.Visible;
 
             currOrderStack.Children.Add(c);
@@ -66,6 +101,11 @@ namespace uOrder
             categoryGrid.Visibility = Visibility.Collapsed;
             showCategories();
         }
+        /// <summary>
+        /// On Category click show all products of the category
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void b_click(object sender, RoutedEventArgs e)
         {
             var tag = (sender as Button).Tag;
@@ -86,7 +126,8 @@ namespace uOrder
                 b[i].Tag = i + t*categories.Length;
                 if (i < b.Length - 1)
                 {
-                    b[i].Content = products[t, i];
+                    b[i].Content = menuProducts[t * categories.Length + i].prodName;
+                    //b[i].Content = products[t, i];
                     b[i].Click += new RoutedEventHandler(p_click);
                 }
                 else
@@ -112,7 +153,7 @@ namespace uOrder
             {
                 b[i] = new Button();
                 b[i].Visibility = Visibility.Visible;
-                b[i].Content = categories[i];
+                b[i].Content = menuCategories[i].catName;
                 b[i].Width = 250;
                 b[i].Height = 75;
                 b[i].Margin = new Windows.UI.Xaml.Thickness(0, 10, 0, 10);
@@ -121,7 +162,7 @@ namespace uOrder
                 b[i].Click += new RoutedEventHandler(b_click);
                 menuGrid.Children.Add(b[i]);
             }
-
+            
         }
 
         private void removeProduct_click(object sender, RoutedEventArgs e)
@@ -133,10 +174,12 @@ namespace uOrder
                 if ((bool)c.IsChecked)
                 {
                     currOrderStack.Children.RemoveAt(i - found);
+                    currentOrder.removeProduct(i - found);
                     found++;
                 }
             }
-           
+            price.Text = currentOrder.price.ToString("C"); // currency
+
         }
 
         private void placeOrder_Click(object sender, RoutedEventArgs e)
@@ -153,7 +196,7 @@ namespace uOrder
             Button editButton = new Button();
             Windows.UI.Xaml.Documents.Run r = new Windows.UI.Xaml.Documents.Run();
             Windows.UI.Xaml.Documents.Underline ul = new Windows.UI.Xaml.Documents.Underline();
-            r.Text = "Order #" + ++orderNo;
+            r.Text = "Order #" + ++orderNo + ": " + currentOrder.price.ToString("C");
             ul.Inlines.Add(r);
             tb.Inlines.Add(ul);
             tb.FontSize += 10;
@@ -182,14 +225,6 @@ namespace uOrder
             doneButton.Content = "Done";
             doneButton.IsEnabled = false;
             doneButton.Click += doneButton_click;
-            /*readyButton.BorderBrush = new SolidColorBrush(Windows.UI.Colors.Gray);
-            readyButton.Background = new SolidColorBrush(Windows.UI.Colors.Gray);
-            cancelButton.BorderBrush = new SolidColorBrush(Windows.UI.Colors.Gray);
-            cancelButton.Background = new SolidColorBrush(Windows.UI.Colors.Gray);
-            doneButton.BorderBrush = new SolidColorBrush(Windows.UI.Colors.Gray);
-            doneButton.Background = new SolidColorBrush(Windows.UI.Colors.Gray);
-            editButton.BorderBrush = new SolidColorBrush(Windows.UI.Colors.Gray);
-            editButton.Background = new SolidColorBrush(Windows.UI.Colors.Gray);*/
             buttonSP.Children.Add(readyButton);
             buttonSP.Children.Add(editButton);
             buttonSP.Children.Add(doneButton);
@@ -200,7 +235,7 @@ namespace uOrder
             allOrdersStack.Children.Add(bor);
             allOrdersStack.Children.Add(new TextBlock());
             currOrderStack.Children.Clear();
-            
+            allOrders.Add(currentOrder);
             currOrder.Visibility = Visibility.Collapsed;
         }
 
@@ -210,6 +245,7 @@ namespace uOrder
             (((sender as Button).Parent as StackPanel).Children[1] as Button).IsEnabled = false;
             (((sender as Button).Parent as StackPanel).Children[3] as Button).IsEnabled = false;
             (((sender as Button).Parent as StackPanel).Children[2] as Button).IsEnabled = true;
+            allOrders[((sender as Button).Parent as StackPanel).Children.IndexOf(sender as Button)].isReady = true;
         }
 
         private void CancelButton_Click(object sender, RoutedEventArgs e)
@@ -228,6 +264,11 @@ namespace uOrder
             pos = allOrdersStack.Children.IndexOf(b);
             allOrdersStack.Children.RemoveAt(pos);
             allOrdersStack.Children.RemoveAt(pos);
+        }
+
+        private void end_click(object sender, RoutedEventArgs e)
+        {
+            Frame.Navigate(typeof(dayStatistics));
         }
     }
 }
